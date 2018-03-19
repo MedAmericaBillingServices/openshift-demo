@@ -1,5 +1,1 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://${POSTGRESQL_SERVICE_HOST}:${POSTGRESQL_SERVICE_PORT}/sample
-    username: sample
-    password: eFLRVAIvSdeBOgC8
+
